@@ -211,6 +211,6 @@ BST<std::string> makeTree(const char* filename)
 		if (!node.empty()) {
 			tree.add(node);
 		}
-	}
+	} 
 	return tree;
 }
