@@ -225,3 +225,4 @@ void BST<T>::Remove(int value)
 	if (base)
 		base = DeleteNode(base, value);
 }
+
